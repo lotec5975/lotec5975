@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
+  
+ Meu nome é Lorena Almeida
 
-<!--
-**lotec5975/lotec5975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Estou estudando na Alura
+ - Estou me desenvolvendo na linguagem JavaScript
+ - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+   
+### Você pode entrar em contato comigo 📫
 
-Here are some ideas to get you started:
+0000110855975xsp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/NUQz6TGgd5gAAAAM/hello-oi.gif)
